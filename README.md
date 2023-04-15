@@ -1,6 +1,8 @@
-
+[![MasterHead](https://miro.medium.com/max/828/1*mqv03KrlG5LK2XU1uV4LJg.gif)]
 <h1 align="center">Hi 👋, I'm Priyanshu Mishra</h1>
 <h3 align="center">A passionate devops enthu developer from India</h3>
+<img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 <img align="center" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/816651876948b381a9d998556b03b5263f996ec1-800x600.png?w=800&h=600&auto=format">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshumishracs&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshumishracs" /> </p>
